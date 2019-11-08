@@ -1,0 +1,3 @@
+C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\Definitions.Game.h
+D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

@@ -1,0 +1,15 @@
+C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\Definitions.Game.h
+C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\GameGameMode.h
+D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Inc\Game\GameGameMode.generated.h
+C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\GamePlayerController.h
+C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Inc\Game\GamePlayerController.generated.h
+C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\GameCharacter.h
+D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Inc\Game\GameCharacter.generated.h
