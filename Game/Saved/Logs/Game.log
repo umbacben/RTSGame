@@ -951,3 +951,64 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.13-09.22.59:443][920]LogBlueprintActionDatabase: Requesting refresh due to hot reload
 [2019.11.13-09.22.59:457][920]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2741 classes and 666 folders.
 [2019.11.13-09.22.59:457][920]Display: HotReload took  9.0s.
+[2019.11.13-09.53.55:939][  1]Candidate modules for hot reload:
+[2019.11.13-09.53.55:939][  1]  Game
+[2019.11.13-09.53.55:940][  1]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,4323 Win64 Development -TargetType=Editor -Project="C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject" "C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject"  -IgnoreJunk]
+[2019.11.13-09.53.55:948][  1]Warning: Starting HotReload took  0.0s.
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog: New page: Compilation - Nov 13, 2019, 11:54:04 AM
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\mKonieczka\Documents\GitHub\RTSGame).
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog: Parsing headers for GameEditor
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Game.uproject" "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\GameEditor\Development\GameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog: Reflection code generated for GameEditor in 6.5789603 seconds
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog:   [1/3] UE4Editor-Game-4323.lib
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog:      Creating library C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-4323.lib and object C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-4323.exp
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog:   [2/3] UE4Editor-Game-4323.dll
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog:      Creating library C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-4323.suppressed.lib and object C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-4323.suppressed.exp
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog:   [3/3] GameEditor.target
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog: Total time in Parallel executor: 0.97 seconds
+[2019.11.13-09.54.04:654][ 37]CompilerResultsLog: Total execution time: 8.62 seconds
+[2019.11.13-09.54.04:654][ 37]LogMainFrame: MainFrame: Module compiling took 8.718 seconds
+[2019.11.13-09.54.04:719][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.11.13-09.54.04:719][ 37]LogBlueprintActionDatabase: Requesting refresh due to module change: Game (unloaded)
+[2019.11.13-09.54.04:764][ 37]LogHotReload: Re-instancing RTSGameMode after hot-reload.
+[2019.11.13-09.54.04:897][ 37]LogHotReload: Re-instancing RTSPlayerController after hot-reload.
+[2019.11.13-09.54.05:024][ 37]LogBlueprintActionDatabase: Requesting refresh due to module change: Game (loaded)
+[2019.11.13-09.54.05:025][ 37]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0006 seconds. Added 6 classes and 2 folders.
+[2019.11.13-09.54.05:028][ 37]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.11.13-09.54.05:117][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.11.13-09.54.05:117][ 37]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.11.13-09.54.05:132][ 37]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2741 classes and 666 folders.
+[2019.11.13-09.54.05:132][ 37]Display: HotReload took  9.2s.
+[2019.11.13-10.01.46:537][887]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.13-10.03.14:842][546]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.13-10.03.14:845][546]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.13-10.08.01:201][579]Candidate modules for hot reload:
+[2019.11.13-10.08.01:201][579]  Game
+[2019.11.13-10.08.01:201][579]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,4979 Win64 Development -TargetType=Editor -Project="C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject" "C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject"  -IgnoreJunk]
+[2019.11.13-10.08.01:206][579]Warning: Starting HotReload took  0.0s.
+[2019.11.13-10.08.09:827][606]CompilerResultsLog: New page: Compilation - Nov 13, 2019, 12:08:09 PM
+[2019.11.13-10.08.09:827][606]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\mKonieczka\Documents\GitHub\RTSGame).
+[2019.11.13-10.08.09:827][606]CompilerResultsLog: Parsing headers for GameEditor
+[2019.11.13-10.08.09:827][606]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Game.uproject" "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\GameEditor\Development\GameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.13-10.08.09:827][606]CompilerResultsLog: Reflection code generated for GameEditor in 6.544888 seconds
+[2019.11.13-10.08.09:827][606]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.13-10.08.09:827][606]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.11.13-10.08.09:827][606]CompilerResultsLog:   [1/3] UE4Editor-Game-4979.lib
+[2019.11.13-10.08.09:827][606]CompilerResultsLog:      Creating library C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-4979.lib and object C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-4979.exp
+[2019.11.13-10.08.09:827][606]CompilerResultsLog:   [2/3] UE4Editor-Game-4979.dll
+[2019.11.13-10.08.09:827][606]CompilerResultsLog:      Creating library C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-4979.suppressed.lib and object C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-4979.suppressed.exp
+[2019.11.13-10.08.09:827][606]CompilerResultsLog:   [3/3] GameEditor.target
+[2019.11.13-10.08.09:827][606]CompilerResultsLog: Total time in Parallel executor: 0.99 seconds
+[2019.11.13-10.08.09:827][606]CompilerResultsLog: Total execution time: 8.53 seconds
+[2019.11.13-10.08.09:827][606]LogMainFrame: MainFrame: Module compiling took 8.631 seconds
+[2019.11.13-10.08.09:890][606]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.11.13-10.08.09:891][606]LogBlueprintActionDatabase: Requesting refresh due to module change: Game (unloaded)
+[2019.11.13-10.08.09:925][606]LogBlueprintActionDatabase: Requesting refresh due to module change: Game (loaded)
+[2019.11.13-10.08.09:925][606]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2019.11.13-10.08.09:929][606]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.11.13-10.08.10:016][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.11.13-10.08.10:016][606]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.11.13-10.08.10:032][606]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2741 classes and 666 folders.
+[2019.11.13-10.08.10:032][606]Display: HotReload took  8.8s.

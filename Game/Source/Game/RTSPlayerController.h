@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/PlayerController.h"
 #include "RTSCamera.h"
+#include "Engine/World.h"
 #include "RTSPlayerController.generated.h"
 
 /**
@@ -22,4 +23,6 @@ public:
 	ARTSCamera* RTSCamera;
 
 	virtual void SetupInputComponent() override;
+
+	virtual void PlayerTick(float DeltaTime) override;
 };

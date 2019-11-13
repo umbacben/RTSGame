@@ -5,5 +5,6 @@
 
 ARTSGameMode::ARTSGameMode()
 {
-
+	PlayerControllerClass = ARTSPlayerController::StaticClass();
+	DefaultPawnClass = ARTSCamera::StaticClass();
 }

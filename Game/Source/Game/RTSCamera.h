@@ -19,11 +19,13 @@ class GAME_API ARTSCamera : public ASpectatorPawn
 public:
 	ARTSCamera();
 
-	void Zoom(float Direction);
+	void ZoomIn();
 
-	void MoveHorizontal(float Direction);
+	void ZoomOut();
 
-	void MoveVertical(float Direction);
+	void MoveHorizontal(bool Direction);
+
+	void MoveVertical(bool Direction);
 
 protected:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Camera")

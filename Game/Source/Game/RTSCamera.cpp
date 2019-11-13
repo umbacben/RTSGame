@@ -8,14 +8,18 @@ ARTSCamera::ARTSCamera()
 
 }
 
-void ARTSCamera::Zoom(float Direction)
+void ARTSCamera::ZoomIn()
 {
 }
 
-void ARTSCamera::MoveHorizontal(float Direction)
+void ARTSCamera::ZoomOut()
 {
 }
 
-void ARTSCamera::MoveVertical(float Direction)
+void ARTSCamera::MoveHorizontal(bool Direction)
+{
+}
+
+void ARTSCamera::MoveVertical(bool Direction)
 {
 }
