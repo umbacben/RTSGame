@@ -74,12 +74,18 @@
     <ClInclude Include="..\..\Source\Game\RTSGameMode.h">
       <Filter>Source\Game</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\Game\RTSCameraPawn.h">
+      <Filter>Source\Game</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\Game\RTSPlayerController.cpp">
       <Filter>Source\Game</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\Game\RTSGameMode.cpp">
+      <Filter>Source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Game\RTSCameraPawn.cpp">
       <Filter>Source\Game</Filter>
     </ClCompile>
   </ItemGroup>

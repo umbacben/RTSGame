@@ -6,6 +6,7 @@
 #include "GameFramework/GameMode.h"
 #include "RTSPlayerController.h"
 #include "RTSCamera.h"
+#include "RTSCameraPawn.h"
 #include "RTSGameMode.generated.h"
 
 /**

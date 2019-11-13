@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSCamera() {}
 	GAME_API UClass* Z_Construct_UClass_ARTSCamera();
 	ENGINE_API UClass* Z_Construct_UClass_ASpectatorPawn();
 	UPackage* Z_Construct_UPackage__Script_Game();
-	ENGINE_API UClass* Z_Construct_UClass_USphereComponent_NoRegister();
+	ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USpringArmComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 // End Cross Module References
@@ -68,7 +68,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSCamera() {}
 		{ "ModuleRelativePath", "RTSCamera.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ARTSCamera_Statics::NewProp_ARTSSphereComponent = { "ARTSSphereComponent", nullptr, (EPropertyFlags)0x00200800000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ARTSCamera, ARTSSphereComponent), Z_Construct_UClass_USphereComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ARTSCamera_Statics::NewProp_ARTSSphereComponent_MetaData, ARRAY_COUNT(Z_Construct_UClass_ARTSCamera_Statics::NewProp_ARTSSphereComponent_MetaData)) };
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ARTSCamera_Statics::NewProp_ARTSSphereComponent = { "ARTSSphereComponent", nullptr, (EPropertyFlags)0x00200800000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ARTSCamera, ARTSSphereComponent), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ARTSCamera_Statics::NewProp_ARTSSphereComponent_MetaData, ARRAY_COUNT(Z_Construct_UClass_ARTSCamera_Statics::NewProp_ARTSSphereComponent_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ARTSCamera_Statics::NewProp_ARTSSpringArmComponent_MetaData[] = {
 		{ "Category", "Camera" },
@@ -117,7 +117,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSCamera() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ARTSCamera, 444741358);
+	IMPLEMENT_CLASS(ARTSCamera, 933515770);
 	template<> GAME_API UClass* StaticClass<ARTSCamera>()
 	{
 		return ARTSCamera::StaticClass();

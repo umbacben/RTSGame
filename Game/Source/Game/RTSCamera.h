@@ -4,7 +4,7 @@
 
 #include "Core.h"
 #include "Camera/CameraComponent.h"
-#include "Components/SphereComponent.h"
+#include "Components/StaticMeshComponent.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "GameFramework/SpectatorPawn.h"
 #include "Engine/World.h"
@@ -28,5 +28,5 @@ protected:
 	USpringArmComponent* ARTSSpringArmComponent;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Camera")
-	USphereComponent* ARTSSphereComponent;
+	UStaticMeshComponent* ARTSSphereComponent;
 };

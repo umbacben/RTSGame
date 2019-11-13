@@ -364,8 +364,10 @@
     <NMakeOutput>..\..\Binaries\HTML5\Game-HTML5-Shipping.js</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\Game\RTSCameraPawn.cpp" />
     <ClCompile Include="..\..\Source\Game\RTSGameMode.cpp" />
     <ClCompile Include="..\..\Source\Game\RTSPlayerController.cpp" />
+    <ClInclude Include="..\..\Source\Game\RTSCameraPawn.h" />
     <ClInclude Include="..\..\Source\Game\RTSGameMode.h" />
     <ClInclude Include="..\..\Source\Game\RTSPlayerController.h" />
     <None Include="..\..\Game.uproject" />

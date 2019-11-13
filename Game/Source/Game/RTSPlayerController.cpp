@@ -10,7 +10,7 @@ ARTSPlayerController::ARTSPlayerController()
 
 void ARTSPlayerController::BeginPlay()
 {
-	RTSPlayerCamera = (Cast<ARTSCamera>(GetPawnOrSpectator()));
+	RTSPlayerCamera = (Cast<ARTSCamera>(GetPawn()));
 }
 
 void ARTSPlayerController::SetupInputComponent()
