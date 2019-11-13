@@ -5,21 +5,4 @@
 
 ARTSCamera::ARTSCamera()
 {
-
-}
-
-void ARTSCamera::ZoomIn()
-{
-}
-
-void ARTSCamera::ZoomOut()
-{
-}
-
-void ARTSCamera::MoveHorizontal(bool Direction)
-{
-}
-
-void ARTSCamera::MoveVertical(bool Direction)
-{
 }

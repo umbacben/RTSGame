@@ -7,7 +7,6 @@ D:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\In
 D:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
 D:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameMode.generated.h
 C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h
-C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSCamera.h
 D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Core.h
 D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
@@ -73,6 +72,7 @@ D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\UObject/Se
 D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\UObject/VRObjectVersion.h
 D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
 D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonitoredProcess.h
+C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSCamera.h
 D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
 D:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
 D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h

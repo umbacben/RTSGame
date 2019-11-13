@@ -1012,3 +1012,154 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.13-10.08.10:016][606]LogBlueprintActionDatabase: Requesting refresh due to hot reload
 [2019.11.13-10.08.10:032][606]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2741 classes and 666 folders.
 [2019.11.13-10.08.10:032][606]Display: HotReload took  8.8s.
+[2019.11.13-10.15.28:307][703]Candidate modules for hot reload:
+[2019.11.13-10.15.28:307][703]  Game
+[2019.11.13-10.15.28:307][703]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,8988 Win64 Development -TargetType=Editor -Project="C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject" "C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject"  -IgnoreJunk]
+[2019.11.13-10.15.28:313][703]Warning: Starting HotReload took  0.0s.
+[2019.11.13-10.15.36:624][692]CompilerResultsLog: New page: Compilation - Nov 13, 2019, 12:15:36 PM
+[2019.11.13-10.15.36:624][692]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\mKonieczka\Documents\GitHub\RTSGame).
+[2019.11.13-10.15.36:624][692]CompilerResultsLog: Parsing headers for GameEditor
+[2019.11.13-10.15.36:624][692]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Game.uproject" "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\GameEditor\Development\GameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.13-10.15.36:624][692]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSCamera.h!
+[2019.11.13-10.15.36:624][692]CompilerResultsLog: Reflection code generated for GameEditor in 6.3975161 seconds
+[2019.11.13-10.15.36:624][692]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.13-10.15.36:624][692]CompilerResultsLog: Building 5 actions with 8 processes...
+[2019.11.13-10.15.36:624][692]CompilerResultsLog:   [1/5] RTSCamera.cpp
+[2019.11.13-10.15.36:624][692]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(22) : error C2143: syntax error: missing ';' before '*'
+[2019.11.13-10.15.36:624][692]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(22) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2019.11.13-10.15.36:624][692]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(22) : error C2238: unexpected token(s) preceding ';'
+[2019.11.13-10.15.36:624][692]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSCamera.cpp(13) : error C2039: 'RTSCamera': is not a member of 'ARTSPlayerController'
+[2019.11.13-10.15.36:624][692]CompilerResultsLog:   C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(14): note: see declaration of 'ARTSPlayerController'
+[2019.11.13-10.15.36:624][692]CompilerResultsLog:   [2/5] RTSCamera.gen.cpp
+[2019.11.13-10.15.36:624][692]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(22) : error C2143: syntax error: missing ';' before '*'
+[2019.11.13-10.15.36:624][692]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(22) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2019.11.13-10.15.36:624][692]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(22) : error C2238: unexpected token(s) preceding ';'
+[2019.11.13-10.15.36:624][692]LogMainFrame: MainFrame: Module compiling took 8.320 seconds
+[2019.11.13-10.15.36:624][692]Warning: HotReload failed, recompile failed
+[2019.11.13-10.20.40:106][462]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-10.20.40:110][462]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-10.31.30:166][992]Candidate modules for hot reload:
+[2019.11.13-10.31.30:166][992]  Game
+[2019.11.13-10.31.30:166][992]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,2501 Win64 Development -TargetType=Editor -Project="C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject" "C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject"  -IgnoreJunk]
+[2019.11.13-10.31.30:177][992]Warning: Starting HotReload took  0.0s.
+[2019.11.13-10.31.38:498][982]CompilerResultsLog: New page: Compilation - Nov 13, 2019, 12:31:38 PM
+[2019.11.13-10.31.38:498][982]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\mKonieczka\Documents\GitHub\RTSGame).
+[2019.11.13-10.31.38:498][982]CompilerResultsLog: Parsing headers for GameEditor
+[2019.11.13-10.31.38:498][982]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Game.uproject" "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\GameEditor\Development\GameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.13-10.31.38:498][982]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSCamera.h!
+[2019.11.13-10.31.38:498][982]CompilerResultsLog: Reflection code generated for GameEditor in 6.4543938 seconds
+[2019.11.13-10.31.38:498][982]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.13-10.31.38:498][982]CompilerResultsLog: Building 5 actions with 8 processes...
+[2019.11.13-10.31.38:498][982]CompilerResultsLog:   [1/5] RTSCamera.cpp
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(27) : error C2143: syntax error: missing ';' before '*'
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(27) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(27) : error C2238: unexpected token(s) preceding ';'
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(16) : error C2039: 'RTSCamera': is not a member of 'ARTSPlayerController'
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:   C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(14): note: see declaration of 'ARTSPlayerController'
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(16) : error C2618: illegal member designator in offsetof
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:   C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(16): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:   [2/5] RTSCamera.gen.cpp
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(27) : error C2143: syntax error: missing ';' before '*'
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(27) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(27) : error C2238: unexpected token(s) preceding ';'
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(16) : error C2039: 'RTSCamera': is not a member of 'ARTSPlayerController'
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:   C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(14): note: see declaration of 'ARTSPlayerController'
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:    C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(16) : error C2618: illegal member designator in offsetof
+[2019.11.13-10.31.38:499][982]CompilerResultsLog:   C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\RTSPlayerController.h(16): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+[2019.11.13-10.31.38:499][982]LogMainFrame: MainFrame: Module compiling took 8.336 seconds
+[2019.11.13-10.31.38:499][982]Warning: HotReload failed, recompile failed
+[2019.11.13-12.09.41:224][358]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-12.09.41:230][358]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-12.09.42:000][449]Candidate modules for hot reload:
+[2019.11.13-12.09.42:000][449]  Game
+[2019.11.13-12.09.42:001][449]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,8541 Win64 Development -TargetType=Editor -Project="C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject" "C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject"  -IgnoreJunk]
+[2019.11.13-12.09.42:016][449]Warning: Starting HotReload took  0.0s.
+[2019.11.13-12.09.50:215][878]CompilerResultsLog: New page: Compilation - Nov 13, 2019, 2:09:50 PM
+[2019.11.13-12.09.50:215][878]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\mKonieczka\Documents\GitHub\RTSGame).
+[2019.11.13-12.09.50:215][878]CompilerResultsLog: Parsing headers for GameEditor
+[2019.11.13-12.09.50:215][878]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Game.uproject" "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\GameEditor\Development\GameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.13-12.09.50:215][878]CompilerResultsLog: Reflection code generated for GameEditor in 5.9504291 seconds
+[2019.11.13-12.09.50:215][878]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.13-12.09.50:215][878]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.11.13-12.09.50:215][878]CompilerResultsLog:   [1/3] UE4Editor-Game-8541.lib
+[2019.11.13-12.09.50:215][878]CompilerResultsLog:      Creating library C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-8541.lib and object C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-8541.exp
+[2019.11.13-12.09.50:215][878]CompilerResultsLog:   [2/3] UE4Editor-Game-8541.dll
+[2019.11.13-12.09.50:215][878]CompilerResultsLog:      Creating library C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-8541.suppressed.lib and object C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-8541.suppressed.exp
+[2019.11.13-12.09.50:215][878]CompilerResultsLog:   [3/3] GameEditor.target
+[2019.11.13-12.09.50:215][878]CompilerResultsLog: Total time in Parallel executor: 0.88 seconds
+[2019.11.13-12.09.50:215][878]CompilerResultsLog: Total execution time: 7.78 seconds
+[2019.11.13-12.09.50:215][878]LogMainFrame: MainFrame: Module compiling took 8.218 seconds
+[2019.11.13-12.09.50:285][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.11.13-12.09.50:285][878]LogBlueprintActionDatabase: Requesting refresh due to module change: Game (unloaded)
+[2019.11.13-12.09.50:309][878]LogClass: Could not find existing class RTSCamera in package /Script/Game for HotReload, assuming new class
+[2019.11.13-12.09.50:311][878]LogClass: Could not find existing class RTSPlayerController in package /Script/Game for HotReload, assuming new class
+[2019.11.13-12.09.50:311][878]LogClass: Function MoveHorizontal is new.
+[2019.11.13-12.09.50:311][878]LogClass: Function MoveVertical is new.
+[2019.11.13-12.09.50:311][878]LogClass: Function ZoomIn is new.
+[2019.11.13-12.09.50:311][878]LogClass: Function ZoomOut is new.
+[2019.11.13-12.09.50:322][878]LogHotReload: Re-instancing RTSCamera after hot-reload.
+[2019.11.13-12.09.50:450][878]LogHotReload: Re-instancing RTSGameMode after hot-reload.
+[2019.11.13-12.09.50:584][878]LogHotReload: Re-instancing RTSPlayerController after hot-reload.
+[2019.11.13-12.09.50:710][878]LogBlueprintActionDatabase: Requesting refresh due to module change: Game (loaded)
+[2019.11.13-12.09.50:711][878]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2019.11.13-12.09.50:715][878]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.11.13-12.09.50:799][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.11.13-12.09.50:800][878]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.11.13-12.09.50:815][878]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2741 classes and 666 folders.
+[2019.11.13-12.09.50:815][878]Display: HotReload took  8.8s.
+[2019.11.13-12.15.21:866][866]Candidate modules for hot reload:
+[2019.11.13-12.15.21:866][866]  Game
+[2019.11.13-12.15.21:866][866]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,6846 Win64 Development -TargetType=Editor -Project="C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject" "C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject"  -IgnoreJunk]
+[2019.11.13-12.15.21:872][866]Warning: Starting HotReload took  0.0s.
+[2019.11.13-12.15.30:416][881]CompilerResultsLog: New page: Compilation - Nov 13, 2019, 2:15:30 PM
+[2019.11.13-12.15.30:416][881]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\mKonieczka\Documents\GitHub\RTSGame).
+[2019.11.13-12.15.30:416][881]CompilerResultsLog: Parsing headers for GameEditor
+[2019.11.13-12.15.30:417][881]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Game.uproject" "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\GameEditor\Development\GameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.13-12.15.30:417][881]CompilerResultsLog: Reflection code generated for GameEditor in 6.5087097 seconds
+[2019.11.13-12.15.30:417][881]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.13-12.15.30:417][881]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.11.13-12.15.30:417][881]CompilerResultsLog:   [1/3] UE4Editor-Game-6846.lib
+[2019.11.13-12.15.30:417][881]CompilerResultsLog:      Creating library C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-6846.lib and object C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-6846.exp
+[2019.11.13-12.15.30:417][881]CompilerResultsLog:   [2/3] UE4Editor-Game-6846.dll
+[2019.11.13-12.15.30:417][881]CompilerResultsLog:      Creating library C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-6846.suppressed.lib and object C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-6846.suppressed.exp
+[2019.11.13-12.15.30:417][881]CompilerResultsLog:   [3/3] GameEditor.target
+[2019.11.13-12.15.30:417][881]CompilerResultsLog: Total time in Parallel executor: 0.98 seconds
+[2019.11.13-12.15.30:417][881]CompilerResultsLog: Total execution time: 8.46 seconds
+[2019.11.13-12.15.30:417][881]LogMainFrame: MainFrame: Module compiling took 8.554 seconds
+[2019.11.13-12.15.30:477][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.11.13-12.15.30:477][881]LogBlueprintActionDatabase: Requesting refresh due to module change: Game (unloaded)
+[2019.11.13-12.15.30:509][881]LogBlueprintActionDatabase: Requesting refresh due to module change: Game (loaded)
+[2019.11.13-12.15.30:510][881]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2019.11.13-12.15.30:514][881]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2019.11.13-12.15.30:600][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.11.13-12.15.30:600][881]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.11.13-12.15.30:614][881]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2741 classes and 666 folders.
+[2019.11.13-12.15.30:614][881]Display: HotReload took  8.8s.
+[2019.11.13-12.23.43:007][392]Candidate modules for hot reload:
+[2019.11.13-12.23.43:007][392]  Game
+[2019.11.13-12.23.43:008][392]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,3774 Win64 Development -TargetType=Editor -Project="C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject" "C:/Users/mKonieczka/Documents/GitHub/RTSGame/Game/Game.uproject"  -IgnoreJunk]
+[2019.11.13-12.23.43:017][392]Warning: Starting HotReload took  0.0s.
+[2019.11.13-12.23.50:835][737]CompilerResultsLog: New page: Compilation - Nov 13, 2019, 2:23:50 PM
+[2019.11.13-12.23.50:835][737]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\mKonieczka\Documents\GitHub\RTSGame).
+[2019.11.13-12.23.50:835][737]CompilerResultsLog: Parsing headers for GameEditor
+[2019.11.13-12.23.50:835][737]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Game.uproject" "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\GameEditor\Development\GameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.13-12.23.50:835][737]CompilerResultsLog: Reflection code generated for GameEditor in 5.8256573 seconds
+[2019.11.13-12.23.50:835][737]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.13-12.23.50:835][737]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.11.13-12.23.50:835][737]CompilerResultsLog:   [1/3] UE4Editor-Game-3774.lib
+[2019.11.13-12.23.50:835][737]CompilerResultsLog:      Creating library C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-3774.lib and object C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-3774.exp
+[2019.11.13-12.23.50:835][737]CompilerResultsLog:   [2/3] UE4Editor-Game-3774.dll
+[2019.11.13-12.23.50:835][737]CompilerResultsLog:      Creating library C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-3774.suppressed.lib and object C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-3774.suppressed.exp
+[2019.11.13-12.23.50:835][737]CompilerResultsLog:   [3/3] GameEditor.target
+[2019.11.13-12.23.50:835][737]CompilerResultsLog: Total time in Parallel executor: 0.83 seconds
+[2019.11.13-12.23.50:835][737]CompilerResultsLog: Total execution time: 7.69 seconds
+[2019.11.13-12.23.50:835][737]LogMainFrame: MainFrame: Module compiling took 7.830 seconds
+[2019.11.13-12.23.50:904][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.11.13-12.23.50:904][737]LogBlueprintActionDatabase: Requesting refresh due to module change: Game (unloaded)
+[2019.11.13-12.23.50:938][737]LogBlueprintActionDatabase: Requesting refresh due to module change: Game (loaded)
+[2019.11.13-12.23.50:939][737]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2019.11.13-12.23.50:942][737]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2019.11.13-12.23.51:028][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.11.13-12.23.51:028][737]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.11.13-12.23.51:042][737]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2741 classes and 666 folders.
+[2019.11.13-12.23.51:042][737]Display: HotReload took  8.0s.

@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define GAME_RTSCamera_generated_h
 
-#define Game_Source_Game_RTSCamera_h_18_RPC_WRAPPERS
-#define Game_Source_Game_RTSCamera_h_18_RPC_WRAPPERS_NO_PURE_DECLS
-#define Game_Source_Game_RTSCamera_h_18_INCLASS_NO_PURE_DECLS \
+#define Game_Source_Game_RTSCamera_h_19_RPC_WRAPPERS
+#define Game_Source_Game_RTSCamera_h_19_RPC_WRAPPERS_NO_PURE_DECLS
+#define Game_Source_Game_RTSCamera_h_19_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesARTSCamera(); \
 	friend struct Z_Construct_UClass_ARTSCamera_Statics; \
@@ -24,7 +24,7 @@ public: \
 	DECLARE_SERIALIZER(ARTSCamera)
 
 
-#define Game_Source_Game_RTSCamera_h_18_INCLASS \
+#define Game_Source_Game_RTSCamera_h_19_INCLASS \
 private: \
 	static void StaticRegisterNativesARTSCamera(); \
 	friend struct Z_Construct_UClass_ARTSCamera_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(ARTSCamera)
 
 
-#define Game_Source_Game_RTSCamera_h_18_STANDARD_CONSTRUCTORS \
+#define Game_Source_Game_RTSCamera_h_19_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ARTSCamera(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ARTSCamera) \
@@ -46,7 +46,7 @@ private: \
 public:
 
 
-#define Game_Source_Game_RTSCamera_h_18_ENHANCED_CONSTRUCTORS \
+#define Game_Source_Game_RTSCamera_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ARTSCamera(ARTSCamera&&); \
@@ -57,31 +57,31 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ARTSCamera); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ARTSCamera)
 
 
-#define Game_Source_Game_RTSCamera_h_18_PRIVATE_PROPERTY_OFFSET \
+#define Game_Source_Game_RTSCamera_h_19_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__ARTSCameraComponent() { return STRUCT_OFFSET(ARTSCamera, ARTSCameraComponent); } \
 	FORCEINLINE static uint32 __PPO__ARTSSpringArmComponent() { return STRUCT_OFFSET(ARTSCamera, ARTSSpringArmComponent); } \
 	FORCEINLINE static uint32 __PPO__ARTSSphereComponent() { return STRUCT_OFFSET(ARTSCamera, ARTSSphereComponent); }
 
 
-#define Game_Source_Game_RTSCamera_h_15_PROLOG
-#define Game_Source_Game_RTSCamera_h_18_GENERATED_BODY_LEGACY \
+#define Game_Source_Game_RTSCamera_h_16_PROLOG
+#define Game_Source_Game_RTSCamera_h_19_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Game_Source_Game_RTSCamera_h_18_PRIVATE_PROPERTY_OFFSET \
-	Game_Source_Game_RTSCamera_h_18_RPC_WRAPPERS \
-	Game_Source_Game_RTSCamera_h_18_INCLASS \
-	Game_Source_Game_RTSCamera_h_18_STANDARD_CONSTRUCTORS \
+	Game_Source_Game_RTSCamera_h_19_PRIVATE_PROPERTY_OFFSET \
+	Game_Source_Game_RTSCamera_h_19_RPC_WRAPPERS \
+	Game_Source_Game_RTSCamera_h_19_INCLASS \
+	Game_Source_Game_RTSCamera_h_19_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Game_Source_Game_RTSCamera_h_18_GENERATED_BODY \
+#define Game_Source_Game_RTSCamera_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Game_Source_Game_RTSCamera_h_18_PRIVATE_PROPERTY_OFFSET \
-	Game_Source_Game_RTSCamera_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
-	Game_Source_Game_RTSCamera_h_18_INCLASS_NO_PURE_DECLS \
-	Game_Source_Game_RTSCamera_h_18_ENHANCED_CONSTRUCTORS \
+	Game_Source_Game_RTSCamera_h_19_PRIVATE_PROPERTY_OFFSET \
+	Game_Source_Game_RTSCamera_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+	Game_Source_Game_RTSCamera_h_19_INCLASS_NO_PURE_DECLS \
+	Game_Source_Game_RTSCamera_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

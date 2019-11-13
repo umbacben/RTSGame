@@ -2,10 +2,9 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
-#include "GameFramework/PlayerController.h"
+#include "Core.h"
 #include "RTSCamera.h"
-#include "Engine/World.h"
+#include "GameFramework/PlayerController.h"
 #include "RTSPlayerController.generated.h"
 
 /**
@@ -19,10 +18,29 @@ class GAME_API ARTSPlayerController : public APlayerController
 public:
 	ARTSPlayerController();
 
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Camera")
-	ARTSCamera* RTSCamera;
-
+	virtual void BeginPlay() override;
 	virtual void SetupInputComponent() override;
-
+	
 	virtual void PlayerTick(float DeltaTime) override;
+
+	UPROPERTY()
+	ARTSCamera* RTSPlayerCamera;
+protected:
+
+	UFUNCTION()
+	void ZoomIn();
+
+	UFUNCTION()
+	void ZoomOut();
+
+	UFUNCTION()
+	void MoveHorizontal(bool Direction);
+
+	UFUNCTION()
+	void MoveVertical(bool Direction);
+
+private:
+	float CameraSpeed;
+
+	float ZoomSpeed;
 };
