@@ -56,6 +56,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSCamera() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ARTSCamera_Statics::Class_MetaDataParams[] = {
+		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Navigation" },
 		{ "IncludePath", "RTSCamera.h" },
 		{ "ModuleRelativePath", "RTSCamera.h" },
@@ -117,7 +118,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSCamera() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ARTSCamera, 933515770);
+	IMPLEMENT_CLASS(ARTSCamera, 2109136846);
 	template<> GAME_API UClass* StaticClass<ARTSCamera>()
 	{
 		return ARTSCamera::StaticClass();

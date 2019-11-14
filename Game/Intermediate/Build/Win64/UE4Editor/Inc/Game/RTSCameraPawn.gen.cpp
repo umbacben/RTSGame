@@ -74,6 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSCameraPawn() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ARTSCameraPawn_Statics::NewProp_CameraBoom_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
+		{ "Comment", "/** Camera boom positioning the camera above the character */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "RTSCameraPawn.h" },
 		{ "ToolTip", "Camera boom positioning the camera above the character" },
@@ -84,6 +85,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSCameraPawn() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ARTSCameraPawn_Statics::NewProp_CameraComponent_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
+		{ "Comment", "/** Top down camera */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "RTSCameraPawn.h" },
 		{ "ToolTip", "Top down camera" },
@@ -122,7 +124,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSCameraPawn() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ARTSCameraPawn, 1248663482);
+	IMPLEMENT_CLASS(ARTSCameraPawn, 2668517976);
 	template<> GAME_API UClass* StaticClass<ARTSCameraPawn>()
 	{
 		return ARTSCameraPawn::StaticClass();

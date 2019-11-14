@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Game.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{F5E3FE5B-18CD-46E3-9EFD-87CD68142ACE}</UniqueIdentifier>
+      <UniqueIdentifier>{2A782FE0-EE2F-4864-9F20-3AA61A7EEA4B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Game.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{3E4757FF-DD08-4881-8446-BCC616206619}</UniqueIdentifier>
+      <UniqueIdentifier>{7F2ADB4D-9879-4511-BF82-2B7A093A4081}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Game">
-      <UniqueIdentifier>{43A72851-1B92-41A3-B559-797829F2083B}</UniqueIdentifier>
+      <UniqueIdentifier>{1315B3FD-946D-483C-98C5-01C6BA1A55EC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Game\Game.Build.cs">
       <Filter>Source\Game</Filter>
@@ -65,28 +65,23 @@
     <ClInclude Include="..\..\Source\Game\RTSCamera.h">
       <Filter>Source\Game</Filter>
     </ClInclude>
-    <None Include="cpp.hint" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\Game\RTSPlayerController.h">
-      <Filter>Source\Game</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\Game\RTSGameMode.h">
-      <Filter>Source\Game</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\Game\RTSCameraPawn.h">
-      <Filter>Source\Game</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\Game\RTSPlayerController.cpp">
-      <Filter>Source\Game</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\Game\RTSGameMode.cpp">
-      <Filter>Source\Game</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\Source\Game\RTSCameraPawn.cpp">
       <Filter>Source\Game</Filter>
     </ClCompile>
+    <ClInclude Include="..\..\Source\Game\RTSCameraPawn.h">
+      <Filter>Source\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Game\RTSGameMode.cpp">
+      <Filter>Source\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Game\RTSGameMode.h">
+      <Filter>Source\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Game\RTSPlayerController.cpp">
+      <Filter>Source\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Game\RTSPlayerController.h">
+      <Filter>Source\Game</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

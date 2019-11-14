@@ -40,6 +40,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSGameMode() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ARTSGameMode_Statics::Class_MetaDataParams[] = {
+		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "RTSGameMode.h" },
 		{ "ModuleRelativePath", "RTSGameMode.h" },
@@ -73,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSGameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ARTSGameMode, 2519545767);
+	IMPLEMENT_CLASS(ARTSGameMode, 3371281115);
 	template<> GAME_API UClass* StaticClass<ARTSGameMode>()
 	{
 		return ARTSGameMode::StaticClass();

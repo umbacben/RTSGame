@@ -61,7 +61,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSPlayerController() {}
 		{ "ModuleRelativePath", "RTSPlayerController.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ARTSPlayerController_MoveHorizontal_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ARTSPlayerController, nullptr, "MoveHorizontal", sizeof(RTSPlayerController_eventMoveHorizontal_Parms), Z_Construct_UFunction_ARTSPlayerController_MoveHorizontal_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ARTSPlayerController_MoveHorizontal_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00080401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ARTSPlayerController_MoveHorizontal_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ARTSPlayerController_MoveHorizontal_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ARTSPlayerController_MoveHorizontal_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ARTSPlayerController, nullptr, "MoveHorizontal", nullptr, nullptr, sizeof(RTSPlayerController_eventMoveHorizontal_Parms), Z_Construct_UFunction_ARTSPlayerController_MoveHorizontal_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ARTSPlayerController_MoveHorizontal_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00080401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ARTSPlayerController_MoveHorizontal_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ARTSPlayerController_MoveHorizontal_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ARTSPlayerController_MoveHorizontal()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -98,7 +98,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSPlayerController() {}
 		{ "ModuleRelativePath", "RTSPlayerController.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ARTSPlayerController_MoveVertical_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ARTSPlayerController, nullptr, "MoveVertical", sizeof(RTSPlayerController_eventMoveVertical_Parms), Z_Construct_UFunction_ARTSPlayerController_MoveVertical_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ARTSPlayerController_MoveVertical_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00080401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ARTSPlayerController_MoveVertical_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ARTSPlayerController_MoveVertical_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ARTSPlayerController_MoveVertical_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ARTSPlayerController, nullptr, "MoveVertical", nullptr, nullptr, sizeof(RTSPlayerController_eventMoveVertical_Parms), Z_Construct_UFunction_ARTSPlayerController_MoveVertical_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ARTSPlayerController_MoveVertical_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00080401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ARTSPlayerController_MoveVertical_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ARTSPlayerController_MoveVertical_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ARTSPlayerController_MoveVertical()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -120,7 +120,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSPlayerController() {}
 		{ "ModuleRelativePath", "RTSPlayerController.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ARTSPlayerController_ZoomIn_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ARTSPlayerController, nullptr, "ZoomIn", 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00080401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ARTSPlayerController_ZoomIn_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ARTSPlayerController_ZoomIn_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ARTSPlayerController_ZoomIn_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ARTSPlayerController, nullptr, "ZoomIn", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00080401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ARTSPlayerController_ZoomIn_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ARTSPlayerController_ZoomIn_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ARTSPlayerController_ZoomIn()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -142,7 +142,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSPlayerController() {}
 		{ "ModuleRelativePath", "RTSPlayerController.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ARTSPlayerController_ZoomOut_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ARTSPlayerController, nullptr, "ZoomOut", 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00080401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ARTSPlayerController_ZoomOut_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ARTSPlayerController_ZoomOut_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ARTSPlayerController_ZoomOut_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ARTSPlayerController, nullptr, "ZoomOut", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00080401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ARTSPlayerController_ZoomOut_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ARTSPlayerController_ZoomOut_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ARTSPlayerController_ZoomOut()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -176,13 +176,14 @@ void EmptyLinkFunctionForGeneratedCodeRTSPlayerController() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_Game,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ARTSPlayerController_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_ARTSPlayerController_MoveHorizontal, "MoveHorizontal" }, // 2293609217
-		{ &Z_Construct_UFunction_ARTSPlayerController_MoveVertical, "MoveVertical" }, // 2486392018
-		{ &Z_Construct_UFunction_ARTSPlayerController_ZoomIn, "ZoomIn" }, // 1869274416
-		{ &Z_Construct_UFunction_ARTSPlayerController_ZoomOut, "ZoomOut" }, // 2168237125
+		{ &Z_Construct_UFunction_ARTSPlayerController_MoveHorizontal, "MoveHorizontal" }, // 1485059318
+		{ &Z_Construct_UFunction_ARTSPlayerController_MoveVertical, "MoveVertical" }, // 3283715494
+		{ &Z_Construct_UFunction_ARTSPlayerController_ZoomIn, "ZoomIn" }, // 2495698264
+		{ &Z_Construct_UFunction_ARTSPlayerController_ZoomOut, "ZoomOut" }, // 3038179740
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ARTSPlayerController_Statics::Class_MetaDataParams[] = {
+		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "RTSPlayerController.h" },
 		{ "ModuleRelativePath", "RTSPlayerController.h" },
@@ -224,7 +225,7 @@ void EmptyLinkFunctionForGeneratedCodeRTSPlayerController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ARTSPlayerController, 169982562);
+	IMPLEMENT_CLASS(ARTSPlayerController, 513202947);
 	template<> GAME_API UClass* StaticClass<ARTSPlayerController>()
 	{
 		return ARTSPlayerController::StaticClass();

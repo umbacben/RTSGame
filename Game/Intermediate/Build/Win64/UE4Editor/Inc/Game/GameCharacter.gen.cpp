@@ -67,6 +67,7 @@ void EmptyLinkFunctionForGeneratedCodeGameCharacter() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AGameCharacter_Statics::NewProp_CursorToWorld_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
+		{ "Comment", "/** A decal that projects to the cursor location. */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "GameCharacter.h" },
 		{ "ToolTip", "A decal that projects to the cursor location." },
@@ -77,6 +78,7 @@ void EmptyLinkFunctionForGeneratedCodeGameCharacter() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AGameCharacter_Statics::NewProp_CameraBoom_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
+		{ "Comment", "/** Camera boom positioning the camera above the character */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "GameCharacter.h" },
 		{ "ToolTip", "Camera boom positioning the camera above the character" },
@@ -87,6 +89,7 @@ void EmptyLinkFunctionForGeneratedCodeGameCharacter() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AGameCharacter_Statics::NewProp_TopDownCameraComponent_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
+		{ "Comment", "/** Top down camera */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "GameCharacter.h" },
 		{ "ToolTip", "Top down camera" },
@@ -125,7 +128,7 @@ void EmptyLinkFunctionForGeneratedCodeGameCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AGameCharacter, 2341696663);
+	IMPLEMENT_CLASS(AGameCharacter, 2890398352);
 	template<> GAME_API UClass* StaticClass<AGameCharacter>()
 	{
 		return AGameCharacter::StaticClass();

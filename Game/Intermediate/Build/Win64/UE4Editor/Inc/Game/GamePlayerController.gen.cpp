@@ -72,7 +72,7 @@ void EmptyLinkFunctionForGeneratedCodeGamePlayerController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AGamePlayerController, 3537812564);
+	IMPLEMENT_CLASS(AGamePlayerController, 2706105084);
 	template<> GAME_API UClass* StaticClass<AGamePlayerController>()
 	{
 		return AGamePlayerController::StaticClass();

@@ -73,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeGameGameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AGameGameMode, 3432657247);
+	IMPLEMENT_CLASS(AGameGameMode, 3480094354);
 	template<> GAME_API UClass* StaticClass<AGameGameMode>()
 	{
 		return AGameGameMode::StaticClass();
