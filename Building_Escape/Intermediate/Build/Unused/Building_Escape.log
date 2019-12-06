@@ -1,0 +1,16 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\mKonieczka\Documents\GitHub\RTSGame).
+  Parsing headers for Building_EscapeEditor
+    Running UnrealHeaderTool "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Building_Escape\Building_Escape.uproject" "C:\Users\mKonieczka\Documents\GitHub\RTSGame\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Building_EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for Building_EscapeEditor in 17.2376079 seconds
+  Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 8 processes...
+    [1/6] OpenDoor.cpp
+    [2/6] Building_Escape.init.gen.cpp
+    [3/6] OpenDoor.gen.cpp
+    [4/6] UE4Editor-Building_Escape-0010.lib
+       Creating library C:\Users\mKonieczka\Documents\GitHub\RTSGame\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-0010.lib and object C:\Users\mKonieczka\Documents\GitHub\RTSGame\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-0010.exp
+    [5/6] UE4Editor-Building_Escape-0010.dll
+       Creating library C:\Users\mKonieczka\Documents\GitHub\RTSGame\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-0010.suppressed.lib and object C:\Users\mKonieczka\Documents\GitHub\RTSGame\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-0010.suppressed.exp
+    [6/6] Building_EscapeEditor.target
+  Total time in Parallel executor: 1.83 seconds
+  Total execution time: 19.88 seconds

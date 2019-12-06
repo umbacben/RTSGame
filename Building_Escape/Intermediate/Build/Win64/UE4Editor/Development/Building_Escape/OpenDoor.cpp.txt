@@ -1,0 +1,5 @@
+C:\Users\mKonieczka\Documents\GitHub\RTSGame\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Definitions.Building_Escape.h
+C:\Users\mKonieczka\Documents\GitHub\RTSGame\Building_Escape\Source\Building_Escape\OpenDoor.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/TriggerVolume.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerVolume.generated.h
+C:\Users\mKonieczka\Documents\GitHub\RTSGame\Building_Escape\Intermediate\Build\Win64\UE4Editor\Inc\Building_Escape\OpenDoor.generated.h
