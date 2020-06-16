@@ -1,3 +1,0 @@
-C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game\Game.Build.cs
-C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\Game.Target.cs
-C:\Users\mKonieczka\Documents\GitHub\RTSGame\Game\Source\GameEditor.Target.cs
