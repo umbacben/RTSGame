@@ -1,0 +1,84 @@
+C:\Users\umbac\Documents\Repos\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\Definitions.Game.h
+C:\Users\umbac\Documents\Repos\RTSGame\Game\Source\Game\RTSGameMode.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameMode.generated.h
+C:\Users\umbac\Documents\Repos\RTSGame\Game\Source\Game\RTSPlayerController.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Core.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/PlatformNamedPipe.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformNamedPipe.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCriticalSection.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/PlatformIncludes.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedDebugInfo.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/StringUtility.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringProxyArchive.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/MRUArray.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/TransArray.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/SingleThreadEvent.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/MapBuilder.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/ThreadingBase.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManagerGlobals.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Logging/LogSuppressionInterface.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/OutputDevices.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Logging/LogScopedVerbosityOverride.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceNull.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceMemory.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceDebug.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceArchiveWrapper.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceAnsiError.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryWriter.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryData.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/ArrayWriter.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/BufferWriter.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/WildcardString.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceHelper.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/CallbackDevice.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/LocalTimestampDirectoryVisitor.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/BlueprintsObjectVersion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/BuildObjectVersion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/CoreObjectVersion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/MobileObjectVersion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/NetworkingObjectVersion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/OnlineObjectVersion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/PlatformObjectVersion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/VRObjectVersion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/MonitoredProcess.h
+C:\Users\umbac\Documents\Repos\RTSGame\Game\Source\Game\RTSCamera.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/SpectatorPawn.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/DefaultPawn.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DefaultPawn.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpectatorPawn.generated.h
+C:\Users\umbac\Documents\Repos\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Inc\Game\RTSCamera.generated.h
+C:\Users\umbac\Documents\Repos\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Inc\Game\RTSPlayerController.generated.h
+C:\Users\umbac\Documents\Repos\RTSGame\Game\Source\Game\RTSCameraPawn.h
+C:\Users\umbac\Documents\Repos\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Inc\Game\RTSCameraPawn.generated.h
+C:\Users\umbac\Documents\Repos\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Inc\Game\RTSGameMode.generated.h

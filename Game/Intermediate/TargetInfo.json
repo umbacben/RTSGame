@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Game",
+			"Path": "C:\\Users\\umbac\\Documents\\Repos\\RTSGame\\Game\\Source\\Game.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameEditor",
+			"Path": "C:\\Users\\umbac\\Documents\\Repos\\RTSGame\\Game\\Source\\GameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

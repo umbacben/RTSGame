@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\umbac\\Documents\\Repos\\RTSGame\\Game\\Source\\Game\\Game.Build.cs",
+		"C:\\Users\\umbac\\Documents\\Repos\\RTSGame\\Game\\Source\\Game.Target.cs",
+		"C:\\Users\\umbac\\Documents\\Repos\\RTSGame\\Game\\Source\\GameEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

@@ -1,0 +1,2 @@
+C:\Users\umbac\Documents\Repos\RTSGame\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\Definitions.Game.h
+C:\Users\umbac\Documents\Repos\RTSGame\Game\Source\Game\Game.h
